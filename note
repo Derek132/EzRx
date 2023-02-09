@@ -1,0 +1,12 @@
+Install PyInstaller: pip install pyinstaller
+    Navigate to the directory containing your Python script.
+    Run the following command: pyinstaller -F <script_name>.py
+    This will create a standalone executable file in the dist directory.
+
+Error: activate.ps1 cannot be loaded because running scripts is disabled on this system....
+       + CategoryInfo          : SecurityError: (:) [], ParentContainsErrorRecordException
+       + FullyQualifiedErrorId : UnauthorizedAccess
+       Requirement: run powershell in ADMINISTRATOR MODE
+       Command Line: Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
+
+
