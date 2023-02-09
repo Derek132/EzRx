@@ -1,0 +1,6 @@
+{"cvs":",1,2,2",
+"walgreens":",2",
+"safeway":",2,3",
+"masada":",4",
+"walmar":",2,2,0",
+"cabacc":",3"}

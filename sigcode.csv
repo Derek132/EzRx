@@ -1,0 +1,11 @@
+sig,translation,sig_translation
+1t,Take 1 <dosageForm>,1t - Take 1 <dosageForm>
+po,By Mouth,po - By Mouth
+tid,Three Times Daily,tid - Three Times Daily
+bid,Two Times Daily,bid - Two Times Daily
+qd,Daily,qd - Daily
+gtt,Instill,gtt - Instill
+1gtt,Instill 1 Drop,1gtt - Instill 1 Drop
+qhs,Before Bedtime,qhs - Before Bedtime
+qam,Every Morning,qam - Every Morning
+qpm,Every Evening,qpm - Every Evening
