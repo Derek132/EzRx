@@ -80,9 +80,6 @@ class MainWindow(QMainWindow, Ui_MainWindow):
                       .main_tab_drug_direction_textbox_on_textChanged(self))
 
 
-
-
-
     # pc_stat_tab set up -------------------------------------------------------------------------------------------
         self.pc_stat_tab_call_cmd.clicked.connect(
             lambda: gm.TabPCStatMethods
